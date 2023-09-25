@@ -47,7 +47,11 @@ Here are some ideas to get you started:
 - 🌱 Sin embargo estoy sumergiéndome en el desarrollo móvil con Swift para especializarme en el desarrollo de aplicaciones iOS.
 
 <!--Intro end-->
+
+<br>
+
 <h2>Tools & Technologies</h2>
+<br>
  <p>
    <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
@@ -58,7 +62,33 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 
-</p>
+
+
+<div align='left'>
+
+<br>
+
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/adriel-celso-rosales-6a4096246" target="blank"><img align="center" src="https://img.shields.io/badge/Adriel Rosales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; </p>
+
+
+   <p align="center">
+<a href="https://x.com/celsinski_1999?t=DAH_WaR_nK3HoF5SxcqjuQ&s=09" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Adriel Rosales-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
+</a>    </p>
+ 
 
 
 
+
+
+  <p align="center">
+<a href="mailto:programacionIPET424@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail: Adriel Rosales-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
+</a>   </p>
+ 
+
+</ul>
+</div>

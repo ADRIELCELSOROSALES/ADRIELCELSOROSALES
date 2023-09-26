@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenidos 👋
 
 <!--
 **ADRIELCELSOROSALES/ADRIELCELSOROSALES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Adriel</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Adriel</h1></summary>
   </ul>
 </div>
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2>Tools & Technologies</h2>
+<h2>Herramientas & Tecnologías</h2>
 <br>
  <p>
    <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">Pongamonos en contacto! 📬</h1>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/adriel-celso-rosales-6a4096246" target="blank"><img align="center" src="https://img.shields.io/badge/Adriel Rosales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; </p>

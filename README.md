@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 🔭 Actualmente estoy trabajando en el desarrollo web front-end y enseñando programación en una escuela técnica secundaria. También trabajo en remoto para España dando clases de programción.
 
 
-- 🌱 Sin embargo estoy sumergiéndome en el desarrollo móvil con Swift para especializarme en el desarrollo de aplicaciones iOS.
+- 🌱 Sin embargo estoy sumergiéndome en el desarrollo móvil con Kotlin para especializarme en el desarrollo de aplicaciones Android.
 
 <!--Intro end-->
 

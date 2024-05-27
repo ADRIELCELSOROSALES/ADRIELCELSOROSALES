@@ -15,11 +15,9 @@
 - 🌱 Estoy continuamente aprendiendo y aplicando mis conocimientos en mi trabajo como profesor, desarrollando aplicaciones con mis alumnos.
 <br>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Herramientas & Tecnologías</h1></summary>
-  </ul>
-</div>
+<h1 align="center">Herramientas & Tecnologías</h1>
+<Br>
+
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?&style=for-the-badge&color=7F52FF" />&nbsp;&nbsp;

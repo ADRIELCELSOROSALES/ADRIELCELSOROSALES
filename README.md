@@ -60,7 +60,7 @@ Repositorios con ejemplos prácticos de **Kotlin**, **MVVM** y **Room** que uso 
 </p>
 
 <p align="center">
-  <strong>🌐 Portafolio Web:</strong> <a href="https://adrielcelsorosales.github.io/portfolio/" target="_blank">https://adrielcelsorosales.github.io/portfolio/</a>
+  <strong>🌐 Portafolio Web:</strong> <a href="https://adrielcelsorosales.github.io/portafolio/" target="_blank">https://adrielcelsorosales.github.io/portfolio/</a>
 </p>
 
 ---

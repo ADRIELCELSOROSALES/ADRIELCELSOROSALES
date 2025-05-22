@@ -34,7 +34,7 @@ Creo que la tecnología debe ser **accesible** y **útil** para todos. Por eso, 
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
 </p>
 
----
+--- 
 
 ## Mis Proyectos Destacados 🚀
 

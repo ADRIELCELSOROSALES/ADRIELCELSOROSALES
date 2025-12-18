@@ -8,17 +8,25 @@
 <!-- Divisor horizontal (gradiente) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ¿Quién soy? 🤔
+## ¿Quién soy? 🤔
 
-Soy un **creador de experiencias móviles** que transforma ideas en aplicaciones funcionales y elegantes. Mi herramienta principal es **Kotlin**, pero mi verdadero superpoder es combinar **diseño intuitivo** con **código robusto** para construir apps que no solo funcionan, sino que también sorprenden.
+Soy **desarrollador Android especializado en Kotlin**, enfocado en la creación de aplicaciones móviles **robustas, escalables y orientadas a producción real**. Trabajo principalmente en soluciones donde la **estabilidad, la seguridad y la calidad del código** son críticas.
 
-Para mí, diseñar una app es como pintar un cuadro: cada línea de código es una pincelada que contribuye a una obra maestra. 🎨
+Formo parte del desarrollo de **Phoenix**, una aplicación Android de **control de acceso a edificios**, donde implemento funcionalidades como **llamadas SIP, envío de DTMF, ingreso por PIN, QR y detección facial**, aplicando **Clean Architecture y MVVM**.
 
-### Mi filosofía 💭
-
-Creo que la tecnología debe ser **accesible** y **útil** para todos. Por eso, además de desarrollar, dedico parte de mi tiempo a **enseñar programación**. Me encanta ver cómo mis alumnos descubren el poder de crear algo desde cero y cómo eso les abre nuevas oportunidades.
+Kotlin es mi herramienta principal, pero mi verdadero diferencial es transformar **requerimientos complejos en soluciones simples para el usuario**, cuidando tanto la arquitectura interna como la experiencia de uso.
 
 ---
+
+## Mi filosofía 💭
+
+Creo en el desarrollo de software con propósito. Las aplicaciones deben resolver problemas reales y hacerlo de forma clara, eficiente y sostenible en el tiempo.
+
+Priorizo:
+- Arquitecturas limpias y desacopladas  
+- Código legible, mantenible y testeable  
+- Buen manejo del ciclo de vida y estado en Android  
+- Separación clara de responsabilidades  
 
 ## Mis habilidades en código 🛠️
 
@@ -35,19 +43,32 @@ Creo que la tecnología debe ser **accesible** y **útil** para todos. Por eso, 
 </p>
 
 --- 
+## Proyectos destacados 🚀
 
-## Mis Proyectos Destacados 🚀
+### 🔐 Phoenix – Control de Acceso
+Aplicación Android para gestión de accesos a edificios.
 
-### 🏦 **App de Gestión Bancaria**
-Una aplicación Android desarrollada con **Kotlin**, **Room** y **Retrofit**, **XML**. ¡Optimizada para rendimiento y escalabilidad!
+**Características principales:**
+- Llamadas **SIP**
+- Envío de **DTMF**
+- Acceso por **PIN**, **QR** y **detección facial**
+- Arquitectura **Clean Architecture + MVVM**
+- Integración con módulos externos y sistemas remotos
 
-### 📚 **App de Gestión de Compras "Shopp"**
-Una aplicación desarrollada en **Kotlin** que permite a los usuarios organizar sus compras, controlar sus gastos y eliminar la necesidad de usar listas en papel o grupos de WhatsApp.
-
-### 🎓 **Proyectos de Enseñanza**
-Repositorios con ejemplos prácticos de **Kotlin**, **MVVM** y **Room** que uso para enseñar a mis alumnos. ¡El conocimiento es mejor cuando se comparte!
+Proyecto enfocado en **entornos reales de producción y hardware específico**.
 
 ---
+
+### 🏦 App de Gestión Bancaria
+Aplicación Android desarrollada con **Kotlin**, **XML**, **Room** y **Retrofit**, pensada para escalabilidad, persistencia local y consumo eficiente de APIs.
+
+---
+
+### 🛒 App de Gestión de Compras
+Aplicación Android desarrollada en **Kotlin** para organizar compras, controlar gastos y simplificar la planificación diaria.
+
+---
+
 
 ## ¡Conectemos! 📬
 

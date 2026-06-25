@@ -135,7 +135,7 @@ Aplicación Android comercial con **asistente impulsado por IA**.
 
 <p align="center">
   <strong>🌐 Portfolio:</strong><br/>
-  <a href="https://adrielcelsorosales.github.io/portfolio/" target="_blank">
+  <a href="https://adrielcelsorosales.github.io/portafolio/" target="_blank">
     https://adrielcelsorosales.github.io/portfolio/
   </a>
 </p>
